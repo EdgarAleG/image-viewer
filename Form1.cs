@@ -30,7 +30,12 @@ namespace FormPractice
 
         private void showButton_Click(object sender, EventArgs e)
         {
-
+            //Show the open file dialog. If the user click ok, load the picture that 
+            //user chose
+            if(openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                pictureBox1.Load(openFileDialog1.FileName);
+            }
         }
 
         private void clearButton_Click(object sender, EventArgs e)
@@ -39,6 +44,11 @@ namespace FormPractice
         }
 
         private void closeButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
 
         }

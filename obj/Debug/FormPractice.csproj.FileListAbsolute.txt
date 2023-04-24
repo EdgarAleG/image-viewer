@@ -1,0 +1,11 @@
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\bin\Debug\FormPractice.exe.config
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\bin\Debug\FormPractice.exe
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\bin\Debug\FormPractice.pdb
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\obj\Debug\FormPractice.csproj.AssemblyReference.cache
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\obj\Debug\FormPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\obj\Debug\FormPractice.Form1.resources
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\obj\Debug\FormPractice.Properties.Resources.resources
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\obj\Debug\FormPractice.csproj.GenerateResource.cache
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\obj\Debug\FormPractice.csproj.CoreCompileInputs.cache
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\obj\Debug\FormPractice.exe
+C:\Users\gonza\CodeSource\TP's laboratorio\FormPractice\FormPractice\obj\Debug\FormPractice.pdb

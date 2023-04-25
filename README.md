@@ -8,6 +8,6 @@ The functionality is easy, it has 4 buttons and a checkbox to adjust the picture
 
 Here are see some screenshots of the app:
 
-![] (/Images/captura1.jpg)
+![Screen1](/Images/captura1.png)
 
-![](/Images/captura2.jpg)
+![Screen2](/Images/captura2.png)

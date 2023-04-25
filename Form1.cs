@@ -25,7 +25,10 @@ namespace FormPractice
         //for some reason, recognizes 'setButton' as 'button3'
         private void button3_Click(object sender, EventArgs e)
         {
-
+            if(colorDialog1.ShowDialog() == DialogResult.OK)
+            {
+                pictureBox1.BackColor = colorDialog1.Color;
+            }
         }
 
         private void showButton_Click(object sender, EventArgs e)
@@ -40,17 +43,24 @@ namespace FormPractice
 
         private void clearButton_Click(object sender, EventArgs e)
         {
-
+            //cleaning the picture.
+            pictureBox1.Image = null;
         }
 
         private void closeButton_Click(object sender, EventArgs e)
         {
-
+            //Closing the form
+            this.Close();
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-
+            //if the user selects this, change the PictureBox's SizeMode property
+            //and change it to normal too
+            if (checkBox1.Checked)
+                pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            else
+                pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
         }
     }
 }

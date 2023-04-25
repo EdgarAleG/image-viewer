@@ -8,6 +8,6 @@ The functionality is easy, it has 4 buttons and a checkbox to adjust the picture
 
 Here are see some screenshots of the app:
 
-![Screen1](/Images/captura1.png)
+![Screen1](/Images/captura1.png){withd=50%}
 
-![Screen2](/Images/captura2.png)
+![Screen2](/Images/captura2.png){withd=50%}

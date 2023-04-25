@@ -8,6 +8,6 @@ The functionality is easy, it has 4 buttons and a checkbox to adjust the picture
 
 Here are see some screenshots of the app:
 
-![] (C:\Users\gonza\OneDrive\Imágenes/captura1.jpg)
+![] (/Images/captura1.jpg)
 
-![](C:\Users\gonza\OneDrive\Imágenes/captura2.jpg)
+![](/Images/captura2.jpg)
